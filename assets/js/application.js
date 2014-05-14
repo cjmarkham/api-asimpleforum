@@ -1,1 +1,0 @@
-window.Forums = Ember.Application.Create();
