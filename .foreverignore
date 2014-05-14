@@ -1,0 +1,6 @@
+**/.tmp/**
+views/layout.ejs
+.git/**
+.log/**
+uploads/attachments/**
+uploads/avatars/**
